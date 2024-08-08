@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.speedTypingTest {
+    padding: 30px;
+    height: 100vh;
+    background: linear-gradient(to right, #f3eaff, #dac0ff);
+}
+
+.heading {
+    color: #690cb0;
+    height: 30px;
+    margin: 10px;
+
+}
+
+.image {
+    height: 45px;
+    width: 40px;
+    margin-right: 20px;
+}
+
+.span {
+    height: 40px;
+    color: black;
+}
+
+.second-container {
+    border-radius: 10px;
+    border-style: solid;
+    padding: 20px;
+}
+
+.submitBtn {
+    background-color: #0cc459;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+    font-weight: bold;
+    transition: background-color;
+}
+
+.submitBtn:hover {
+    background-color: #036125;
+}
+
+.resetBtn {
+    background-color: #ccaaf0;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+    font-weight: bold;
+
+}
+
+.resetBtn:hover {
+    background-color: #9039ed;
+}
+
+.startBtn {
+    background-color: #8be0f7;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.startBtn:hover {
+    background-color: #054687;
+}
+
+.seconds {
+    font-size: 40px;
+}
